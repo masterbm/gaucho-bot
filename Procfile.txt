@@ -1,1 +1,1 @@
-cf push CF_Python -u none -c runbot.bat
+web: bundle exec runbot.bat
