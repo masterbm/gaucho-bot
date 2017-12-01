@@ -1,5 +1,0 @@
-discord.py==2.7.14
-aiohttp
-websockets
-chardet
-cffi==1.6.0; sys_platform == 'win32'
