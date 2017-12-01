@@ -1,1 +1,1 @@
-worker: node bot.py gaucho
+worker: node bot.py
